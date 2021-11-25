@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tellmyself.github.io</id>
     <title>Tell Myself</title>
-    <updated>2021-11-25T08:25:35.523Z</updated>
+    <updated>2021-11-25T08:26:37.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tellmyself.github.io"/>
     <link rel="self" href="https://tellmyself.github.io/atom.xml"/>
@@ -101,7 +101,9 @@ csdn、简书、博客园、知乎、掘金、思否、开源中国……<br>
 报错SSL_read: Connection was reset, errno 10054<br>
 搜索后借鉴https://blog.csdn.net/qq_29493173/article/details/114534057<br>
 第三种办法解决<br>
-git config --global http.sslVerify &quot;false&quot;</p>
+打开Git命令页面，执行git命令脚本：修改设置，解除ssl验证<br>
+git config --global http.sslVerify &quot;false&quot;<br>
+真是折腾啊……</p>
 ]]></content>
     </entry>
     <entry>
