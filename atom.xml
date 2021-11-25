@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tellmyself.github.io</id>
     <title>Tell Myself</title>
-    <updated>2021-11-16T16:05:03.862Z</updated>
+    <updated>2021-11-25T07:37:44.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tellmyself.github.io"/>
     <link rel="self" href="https://tellmyself.github.io/atom.xml"/>
@@ -10,6 +10,95 @@
     <logo>https://tellmyself.github.io/images/avatar.png</logo>
     <icon>https://tellmyself.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Tell Myself</rights>
+    <entry>
+        <title type="html"><![CDATA[思绪混乱]]></title>
+        <id>https://tellmyself.github.io/post/si-xu-hun-luan/</id>
+        <link href="https://tellmyself.github.io/post/si-xu-hun-luan/">
+        </link>
+        <updated>2021-11-25T07:16:58.000Z</updated>
+        <content type="html"><![CDATA[<p>每天感觉好忙<br>
+一天到晚都不闲着<br>
+可到晚上一想<br>
+好像想干的都没干</p>
+<p>最近思绪很乱<br>
+因为想干的事太多<br>
+可理不清头绪<br>
+只剩上班看娃吃饭</p>
+<p>静下来仔细想<br>
+凡事分清轻重主次<br>
+事多注意力差<br>
+要只专注想干的事</p>
+<p>工作学习爱好</p>
+<p>虽然不很喜欢<br>
+但还要把工作干好<br>
+毕竟那是饭碗<br>
+工作上列好清单<br>
+一件一件的干</p>
+<p>剩余时间是学习<br>
+把论文修改完善<br>
+多争取老师意见<br>
+尽快把论文投稿<br>
+还要把项目干完<br>
+抓紧时间看文献</p>
+<p>学通编程语言<br>
+一方面是教儿子<br>
+一方面是完善自己<br>
+先从python和sctrach开始</p>
+<p>图片处理和视频编辑<br>
+日常中用到的PS技术不少<br>
+要懂得积累<br>
+开始着手学习视频编辑<br>
+制作短视频</p>
+<p>总的来说，就是工作做好，论文写好，项目干好，编程学好，偶尔发展爱好</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从Gridea+Github开始折腾]]></title>
+        <id>https://tellmyself.github.io/post/cong-grideagithub-kai-shi-zhe-teng/</id>
+        <link href="https://tellmyself.github.io/post/cong-grideagithub-kai-shi-zhe-teng/">
+        </link>
+        <updated>2021-11-25T06:18:36.000Z</updated>
+        <content type="html"><![CDATA[<p>一直想找个地方，整理自己的心得，不至于每次都要去度娘重新再找。<br>
+可是实在太懒了，那些博客平台又觉得不放心，哪天倒了自己的心血也就没了。<br>
+无意间搜GMT，看到具神也将博客转到github上了。<br>
+可是注册github后，水平有限，发现好乱，于是又去看其他博客平台了，<br>
+csdn、简书、博客园、知乎、掘金、思否、开源中国……<br>
+还去知乎看了大神的推荐和对比https://www.zhihu.com/question/21739407。<br>
+选择困难症的我犹豫了好几天后就此搁置了。<br>
+突然有一天，从某公众号看到Gridea+Github的介绍很吸引人。<br>
+决定开始折腾下。<br>
+具体公众号搜不到了，百度一搜gridea+Github一堆教程。<br>
+其实只要去Gridea官网看一下简明教程就好了。<br>
+这里只记录下遇到的坑，确实很坑。<br>
+折腾了半天，发现Gridea界面没法远程连接，按键全部是灰色的？<br>
+以为是没装GIT缘故，装了之后问题依旧……<br>
+换了机器也是如此，心灰意冷，网上也找不到答案，于是又去寻找好的博客平台去……<br>
+转了一圈，还是觉得不合适，心中那股倔劲儿又上来了，<br>
+终于搜到https://www.bilibili.com/read/cv13059298 作者：第十三只黑鸟这个文章后，<br>
+心想会不会也是这个低级错误，一试果然是……<br>
+“复制信息到远程连接的基础设置里去的时候！！！！！！多了空格！！！！！！<br>
+这个真的是最坑的，小白很容易被误伤，而且肉眼看不出）”<br>
+满心欢喜的填好点保存，再点远程连接，问题又来了，连接失败……<br>
+找了好多办法，包括但不限于https://zhuanlan.zhihu.com/p/106781771 这篇博文类似的方法<br>
+于是又去寻找好的博客平台去……<br>
+寻找未果，又过了几天，<br>
+终于发现了作者闷声的干货https://zhuanlan.zhihu.com/p/406234933<br>
+让我这个小白心生幻想，重燃希望<br>
+安装了作者修改的gridea版本，可以远程连接成功了，哈哈，但是依然无法同步……<br>
+又一盆水浇灭了我心中小火，<br>
+于是又去寻找好的博客平台去……<br>
+时间又过去几天，心想不能再拖了，<br>
+有些东西想整理的又忘了，随便找个博客得了，反正也是记录给自己看的。<br>
+于是再试最后一次，我又找出作者闷声的干货文，仔细阅读了下，发现是不是没装GIT和dev-sidecar<br>
+重新安装后，再试，我靠，行了，这次是同步成功了！<br>
+于是……又不知道写啥了。<br>
+时间又过去几天，<br>
+就先把这次折腾的经理记下来吧，<br>
+小白一枚，万恶的坑，<br>
+最后还是要感谢闷声大神的博文的指导！<br>
+终于可以开始自己的博客记录了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tellmyself.github.io/post/hello-gridea/</id>
